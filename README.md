@@ -1,5 +1,5 @@
 # rapportTP1-traitement-de-signal
-lose all;
+close all;
 clear all;
 clc;
 
